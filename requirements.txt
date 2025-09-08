@@ -1,0 +1,9 @@
+pymongo
+requests
+beautifulsoup4
+selenium
+pandas
+openpyxl
+googlemaps
+python-dotenv
+pillow
